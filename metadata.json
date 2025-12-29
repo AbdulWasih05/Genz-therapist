@@ -1,0 +1,7 @@
+{
+  "name": "Crimson Sanctum",
+  "description": "A spiritual therapist and close AI buddy with a unique noir-aesthetic, voice interaction, and mood detection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
